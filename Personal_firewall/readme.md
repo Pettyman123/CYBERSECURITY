@@ -30,8 +30,12 @@ A personal firewall to monitor and control incoming and outgoing network traffic
 2. Ensure iptables is installed:
   
   ```sh
-  sudo apt-get install iptables
+   sudo apt-get install iptables
   ```
+3. Install the requirements.txt file
+   ```sh
+   pip install requirements.txt
+   ```
 ## Contribution
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.For more information read the detailed documenation
 
